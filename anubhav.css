@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  
+  nav li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  nav li a:hover {
+    color: #ddd;
+  }
+  
+  main {
+    padding: 40px 0;
+  }
+  
+  section {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+ .spicmacayimage {
+    width : auto;
+    height : auto;
+    margin-right:1000px;
+ }
+ .heading {
+    font-weight:600;
+    display :
+ }
